@@ -1,0 +1,3 @@
+PS C:\Users\tterr\OneDrive\Documents\OneDrive\Documents\School\Fall 2026\ITSC-1342-20002\itsc-1342-assignment-7\tests>  & 'C:\Users\tterr\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\tterr\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy\launcher' '58139' '--' 'C:\Users\tterr\OneDrive\Documents\OneDrive\Documents\School\Fall 2026\ITSC-1342-20002\itsc-1342-assignment-7\tests\test_solution.py' 
+ALL UNIT TESTS PASSED - ASSIGNMENT 7
+PS C:\Users\tterr\OneDrive\Documents\OneDrive\Documents\School\Fall 2026\ITSC-1342-20002\itsc-1342-assignment-7\tests> 
